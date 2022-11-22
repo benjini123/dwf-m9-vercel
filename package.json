@@ -1,0 +1,16 @@
+{
+  "name": "vercel-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/benjini123/dwf-m9-vercel.git/",
+  "author": "benjini123 <benjahenley@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "dev next",
+    "build": "next build",
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^13.0.4"
+  }
+}
